@@ -1,0 +1,12 @@
+gfg
+
+- Divide and Conquer
+divide the problem into 2 or more sub-problems
+binary search doesnot form divide,conquer because at every step, there's only one subproblem
+it forms decrease and conquer
+
+- Merge Sort
+l+(r-l)/2 to avoid overflow
+
+- DAC to find max, min element in a given array
+- a DAC problem becomes a DP problem when the same problem is evaluated multiple times
